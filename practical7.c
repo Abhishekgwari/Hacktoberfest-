@@ -1,5 +1,6 @@
 // given no is divisible by 7 or not if not print nearest no divisible by 7
 #include <stdio.h>
+#inclue <conio.h>
 int main()
 {
     int num, rem, newnum;
