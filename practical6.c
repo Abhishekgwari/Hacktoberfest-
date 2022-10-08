@@ -1,6 +1,7 @@
 // roots of quadratic equation using nesting of if else
 #include <stdio.h>
 #include <math.h>
+#include <conio.h>
 int main()
 {
     int a, b, c, d;
