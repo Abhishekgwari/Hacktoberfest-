@@ -2,20 +2,20 @@
 #include <stdio.h>
 int main()
 {
-int a,b,c;
-printf("enter three number");
+int x,y,x;
+printf("enter three number which you think");
 scanf("%d%d%d",&a,&b,&c);
-if(a>=b && a>=c)
+if(x>=y && x>=z)
 {
-printf ("%d is  the largest number",a);
+printf ("%d is  the largest number",x);
 }
-else if(b>=a && b>=c)
+else if(y>=x && y>=z)
 {
-printf ("%d is  the largest number",b);
+printf ("%d is  the largest number",y;
 }
 else
 {
-  printf ("%d is  the largest number",c);  
+  printf ("%d is  the largest number",z);  
 }
 return 0;
 }
